@@ -1,3 +1,4 @@
 -pastaa
 -tomaattikastike
 -kaurakermaa
+-kanaa
