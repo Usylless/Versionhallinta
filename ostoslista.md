@@ -3,3 +3,4 @@
 -kaurakermaa
 -kanaa
 -salaattia
+-karkkia
