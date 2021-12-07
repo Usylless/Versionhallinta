@@ -2,3 +2,4 @@
 -tomaattikastike
 -kaurakermaa
 -kanaa
+-salaattia
