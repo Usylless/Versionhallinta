@@ -1,5 +1,7 @@
 -pastaa
 -tomaattikastike
--kaurakermaa
+-kermaa
 -kanaa
 -salaattia
+-joulukalenteri
+-aakkoset
